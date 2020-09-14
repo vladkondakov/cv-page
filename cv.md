@@ -1,45 +1,42 @@
-#CV Page
----
-
-**Vladislav Kondakov**
+**Vladislav Kondakov, CV page**
 ---
 
 **Contact info**
 ---
-Located in **St. Petersburg, Russia**
-**Phone**: +7 (914) 943-45-17
-**E-mail**: [vladisloove.kondakov@gmail.com][1]
-**Telegram**: [@vlkondakov][2]
-[1]: mailto:vladisloove.kondakov@gmail.com
+Located in **St. Petersburg, Russia**\
+**Phone**: +7 (914) 943-45-17\
+**E-mail**: [vladisloove.kondakov@gmail.com][1]\
+**Telegram**: [@vlkondakov][2]\
+[1]: mailto:vladisloove.kondakov@gmail.com\
 [2]: https://tlgg.ru/vlkondakov
 
 Summary
 ---
-I'm going to become a professional *Front-End developer*.
+I'm going to become a professional *Front-End developer*.\
 To achieve this goal, I study the documentation on languages ​​and technologies such as
-*HTML*, *CSS*, *JavaScipt* mainly in English and I reinforce the acquired knowledge in practice.
-Purposefulness, perseverance helps me in this, thirst for new knowledge, desire to create interesting, meaningful projects and write “correct” and “beautiful” code.
+*HTML*, *CSS*, *JavaScipt* mainly in English and I reinforce the acquired knowledge in practice.\
+Purposefulness, perseverance helps me in this, thirst for new knowledge, desire to create interesting, meaningful projects and write “correct” and “beautiful” code.\
 A huge plus for me will be to get into a friendly and strong team, where the motivation will be always with me to develop professionally.
 
 Skills
 ---
 * **Basic Level**
- * HTML;
- * CSS;
- * JavaScript;
- * Java;
- * Python.
+  * HTML;
+  * CSS;
+  * JavaScript;
+  * Java;
+  * Python.
 
 
 * **Had some tasks with**
- * React;
- * Node.js.
+  * React;
+  * Node.js.
 
 
 * **Additionally**
- * Visual Studio Code;
- * Git;
- * OOP, Logic Programming (Prolog).
+  * Visual Studio Code;
+  * Git;
+  * OOP, Logic Programming (Prolog).
 
 Code Example
 ---
@@ -60,25 +57,25 @@ export default request => {
 Education
 ---
 
-* **Irkutsk State University** (2016 - 2020) 
+* **Irkutsk State University** (2016 - 2020)\ 
      *Bachelor of "applied mathematics and informatics"* (graduated with honors).
-* **Peter the Great St.Petersburg Polytechnic University** (2020 - 2022)
+* **Peter the Great St.Petersburg Polytechnic University** (2020 - 2022)\
      *First year of master's degree, "mathematical methods of data analysis and visualization"*.
 
 
 
 * **Courses**
- * [Codecademy HTML course](https://www.codecademy.com/profiles/vladislavKondakov7004332313);
- * SUMSUNG IT SCHOOL (certificate of completion);
- * [Basic Js](https://www.vladilen.dev/js) *in progress*;
- * The Rolling Scopes [JavaScript/Front-end](https://rs.school/js/) *in progress*.
+  * [Codecademy HTML course](https://www.codecademy.com/profiles/vladislavKondakov7004332313);
+  * SUMSUNG IT SCHOOL (certificate of completion);
+  * [Basic Js](https://www.vladilen.dev/js) *in progress*;
+  * The Rolling Scopes [JavaScript/Front-end](https://rs.school/js/) *in progress*.
 
 
 * **Studying**
- * [JavaScript](https://learn.javascript.ru/);
- * [Web Docs](https://developer.mozilla.org/en-US/);
- * [Codewars](https://www.codewars.com/users/JNy);
- * [JavaScript Style Guide](https://github.com/airbnb/javascript).
+  * [JavaScript](https://learn.javascript.ru/);
+  * [Web Docs](https://developer.mozilla.org/en-US/);
+  * [Codewars](https://www.codewars.com/users/JNy);
+  * [JavaScript Style Guide](https://github.com/airbnb/javascript).
 
 English Level
 ---
