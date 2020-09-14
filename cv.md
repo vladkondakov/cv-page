@@ -5,10 +5,8 @@
 ---
 Located in **St. Petersburg, Russia**\
 **Phone**: +7 (914) 943-45-17\
-**E-mail**: [vladisloove.kondakov@gmail.com][1]\
-**Telegram**: [@vlkondakov][2]\
-[1]: mailto:vladisloove.kondakov@gmail.com\
-[2]: https://tlgg.ru/vlkondakov
+**E-mail**: [vladisloove.kondakov@gmail.com](mailto:vladisloove.kondakov@gmail.com)\
+**Telegram**: [@vlkondakov](https://tlgg.ru/vlkondakov)
 
 Summary
 ---
@@ -57,10 +55,10 @@ export default request => {
 Education
 ---
 
-* **Irkutsk State University** (2016 - 2020)\ 
-     *Bachelor of "applied mathematics and informatics"* (graduated with honors).
+* **Irkutsk State University** (2016 - 2020)\
+*Bachelor of "applied mathematics and informatics"* (graduated with honors).
 * **Peter the Great St.Petersburg Polytechnic University** (2020 - 2022)\
-     *First year of master's degree, "mathematical methods of data analysis and visualization"*.
+*First year of master's degree, "mathematical methods of data analysis and visualization"*.
 
 
 
