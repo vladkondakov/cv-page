@@ -1,8 +1,8 @@
 body {
     text-align: left;
-    max-width: 1280px;
+    max-width: 960px;
     width: 80%;
-    padding-left: 128px;
+    margin: auto;
     font-size: 18px;
 }
 
@@ -49,4 +49,20 @@ article {
 
 .skills-list {
     padding-left: 10px;
+}
+
+.highlight {
+    padding: 10px 10px 0px 10px;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+}
+
+.education-date-inline {
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+.sub-list > li {
+    padding-bottom: 5px;
 }
