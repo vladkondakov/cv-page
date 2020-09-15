@@ -1,8 +1,13 @@
 body {
     text-align: left;
+    max-width: 1280px;
+    width: 80%;
+    padding-left: 128px;
+    font-size: 18px;
 }
 
 header {
+    margin-bottom: 50px;
     padding: 10px;
     text-align: center;
     font-size: 1.5em;
@@ -35,4 +40,13 @@ a:hover {
 
 .vk-title {
     margin-left: 20px;
+}
+
+article {
+    margin: 5px 0px;
+    border-bottom: 1px solid black;
+}
+
+.skills-list {
+    padding-left: 10px;
 }
