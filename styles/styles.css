@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     padding: 10px;
     text-align: center;
     font-size: 1.5em;
@@ -18,7 +18,7 @@ nav {
 }
 
 a {
-    color: black;
+    color: blue;
     text-decoration: none;
 }
 
@@ -42,9 +42,14 @@ a:hover {
     margin-left: 20px;
 }
 
+h2 {
+    padding: 15px 0px 10px 0px;
+    margin: 10px 0px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+}
+
 article {
     margin: 5px 0px;
-    border-bottom: 1px solid black;
 }
 
 .skills-list {
